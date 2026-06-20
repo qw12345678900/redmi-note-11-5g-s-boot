@@ -33,3 +33,6 @@ PRODUCT_PACKAGES += \
     update_engine \
     update_verifier \
     update_engine_sideload
+
+# Shipping API level
+PRODUCT_SHIPPING_API_LEVEL := 30
